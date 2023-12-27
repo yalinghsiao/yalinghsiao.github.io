@@ -1,3 +1,12 @@
+---
+layout: archive
+title: ""
+permalink: /course/
+author_profile: true
+redirect_from:
+  - /course
+---
+
 # University of Birmingham    
 * Contemporary Issues in Education
 * Social Psychology and Learning
