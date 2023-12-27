@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Research"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Reading Experience and lexical learning
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+The core focus of my current research centres on the acquisition of new words by children through incidental encounters within meaningful contexts, such as reading experiences. Rather than learning words in isolation, children acquire them through the contextual situations in which the words appear. Reading practice not only refines fundamental skills but also fosters the development of reading fluency. However, there exists variation in reading proficiency among children, both at the word level and in terms of their reading abilities. This prompts the question of why such differences exist and how we can optimize word learning for children.
 
-Work experience
+Differences of children’s language input in Speech and Text
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Adult data show that written language contain richer lexical and syntactic features compared to speech. There is a gap in understanding how children’s reading experience provides a type of language different from child-directed speech, which has important implications on language and literacy development. Leveraging different children's corpora, I conducted comparative analyses of lexical and syntactic attributes between book language and speech. 
+  
+Children’s Writing and what can it tell us language and social-emotional development?
+======
+Children's writing provides significant insights into children’s literacy development. I used an array of linguistic lexical and syntactic complexity measures to elucidate the variance in children’s writing progression. children's writing also presents a valuable avenue for exploring social-emotional development changes in children. I found that children's self-produced writing yielded comparable androcentrism seen in children's literature, with boys writing more about male characters over various age groups. Other analyses such as sentiment analysis unveiled that older children and boys tended to express more negative emotions through their writing. 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Sentence Processing: Language Experience, Comprehension and Production  
+======
+This line of research centres on the interplay between language experience, comprehension, and production. While linguistics and psychology often analyse comprehension and production separately, this overlooks essential shared elements that can enhance our understanding of both processes. Learning from prior linguistic exposure influences both comprehension and production. Importantly, production not only results from such learning but also contributes to the linguistic statistics that comprehenders acquire, forming a cyclical Production-Distribution-Comprehension loop (MacDonald, 2013). This interdependence highlights that comprehension emerges from prior linguistic exposure, while production shapes that exposure.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
