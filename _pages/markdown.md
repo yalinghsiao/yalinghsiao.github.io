@@ -11,7 +11,6 @@ redirect_from:
 *	**Hsiao, Y.**, Dawson, N., Banerji, N., & Nation, K. (in review). A corpus-based developmental investigation of linguistic complexity in children’s written stories
 *	Dong, Y., **Hsiao, Y.**, Dawson, N., Banerji, N. & Nation, K. (in review). The Emotional Content of Children’s Writing: A Data-Driven Approach
 *	Dawson, N., **Hsiao, Y.**, Tan, A.W.M., Banerji, N., & Nation, K. (2023) Effects of Target Age and Genre on Morphological Complexity in Children’s Reading Material, <i>Scientific Studies of Reading</i>, DOI: 10.1080/10888438.2023.2206574
-
 *	Nation, K., Dawson, N. J., & **Hsiao, Y**. (2022). Book Language and Its Implications for Children’s Language, Literacy, and Development. <i>Current Directions in Psychological Science</i>, 31(4), 375–380. https://doi.org/10.1177/09637214221103264
 *	Taylor, E., Nation, K., & **Hsiao, Y.** (2022). Context Availability and Sentence Availability Ratings for 3,000 English Words and their Association with Lexical Processing. <i>Journal of cognition</i>, 5(1), 20. https://doi.org/10.5334/joc.211
 *	**Hsiao, Y.**, Dawson, N., Banerji, N., & Nation, K. (2022). The nature and frequency of relative clauses in the language children hear and the language children read: a developmental cross-corpus analysis of English complex grammar. <i>Journal of Child Language</i>. 50(3):555-580. doi:10.1017/S0305000921000957
