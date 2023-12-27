@@ -2,7 +2,7 @@
 main:  
     
   - title: "Research"
-    url: /cv/
+    url: /research/
     
   - title: "publications"
     url: /markdown/
