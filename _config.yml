@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Yaling Hsiao/ Personal Website"
+title                    : "Yaling Hsiao"
 title_separator          : "-"
 name                     : &name "Yaling Hsiao"
 description              : &description "personal description"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yaling Ysiao"
+  name             : "Yaling Hsiao"
   avatar           : "profile.jpg"
-  bio              : "personal website"
+  bio              : #"personal website"
   location         : "United Kingdom"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
