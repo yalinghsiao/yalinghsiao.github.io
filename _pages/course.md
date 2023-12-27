@@ -1,7 +1,7 @@
 # University of Birmingham    
-*Contemporary Issues in Education
-*Social Psychology and Learning
-*Cognitive Psychology
+* Contemporary Issues in Education
+* Social Psychology and Learning
+* Cognitive Psychology
 
 # University of Oxford
 * Reading and Language: Development and Disorder
