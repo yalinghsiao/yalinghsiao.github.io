@@ -1,13 +1,12 @@
 ---
 layout: archive
 title: "Research"
-permalink: /cv/
+permalink: /research/
 author_profile: true
 redirect_from:
-  - /resume
+  - /research
 ---
 
-{% include base_path %}
 
 Reading Experience and lexical learning
 ======
