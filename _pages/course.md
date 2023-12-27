@@ -1,18 +1,9 @@
----
-permalink: /course/
-title: "Teaching"
-author_profile: true
-redirect_from: 
-  - /md/
-  - /course.html
----
-
-## University of Birmingham    
+# University of Birmingham    
 *Contemporary Issues in Education
 *Social Psychology and Learning
 *Cognitive Psychology
 
-## University of Oxford
+# University of Oxford
 * Reading and Language: Development and Disorder
 * Language and Cognition
 * Developmental Psychology
@@ -21,7 +12,7 @@ redirect_from:
 * Introduction to Psychology
 * Block Practical - Learning to Read: Experiments with Adults
 
-## University of Wisconsin-Madison
+# University of Wisconsin-Madison
 * The Structure of Human Thought: Concepts, Language & Culture
 * Literacy, Brain and Behavior
 * Language, Mind and Brain
