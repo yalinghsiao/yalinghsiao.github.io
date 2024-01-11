@@ -11,6 +11,7 @@ redirect_from:
 * Contemporary Issues in Education
 * Social Psychology and Learning
 * Cognitive Psychology
+* Developmental Psychology
 
 ## University of Oxford
 * Reading and Language: Development and Disorder
