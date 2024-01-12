@@ -9,7 +9,7 @@ redirect_from:
 
 
 *	Dong, Y., **Hsiao, Y.**, Dawson, N., Banerji, N. & Nation, K. (in review). The Emotional Content of Children’s Writing: A Data-Driven Approach
-*	**Hsiao, Y.**, Dawson, N., Banerji, N., & Nation, K. (in press). A corpus-based developmental investigation of linguistic complexity in children’s written stories. <i>Applied Corpus Linguistics</i> [[link]](https://www.sciencedirect.com/science/article/pii/S2666799124000017)
+*	**Hsiao, Y.**, Dawson, N., Banerji, N., & Nation, K. (in press). A corpus-based developmental investigation of linguistic complexity in children’s written stories. <i>Applied Corpus Linguistics</i>. [[link]](https://www.sciencedirect.com/science/article/pii/S2666799124000017)
 *	Dawson, N., **Hsiao, Y.**, Tan, A.W.M., Banerji, N., & Nation, K. (2023) Effects of Target Age and Genre on Morphological Complexity in Children’s Reading Material, <i>Scientific Studies of Reading</i>, 27:6, 529-556. [[link]](https://www.tandfonline.com/doi/full/10.1080/10888438.2023.2206574)
 *	Nation, K., Dawson, N. J., & **Hsiao, Y**. (2022). Book Language and Its Implications for Children’s Language, Literacy, and Development. <i>Current Directions in Psychological Science</i>, 31(4), 375–380. [[link]](https://journals.sagepub.com/doi/10.1177/09637214221103264)
 *	Taylor, E., Nation, K., & **Hsiao, Y.** (2022). Context Availability and Sentence Availability Ratings for 3,000 English Words and their Association with Lexical Processing. <i>Journal of cognition</i>, 5(1), 20. [[link]](https://journalofcognition.org/articles/10.5334/joc.211)
