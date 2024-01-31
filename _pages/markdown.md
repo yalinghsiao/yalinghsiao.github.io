@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-
+* Calzi, G. L., **Hsiao, Y.**, Griffiths, S., Lucas, L., & Norbury, C. (submitted). When I’m 25, I will… the effects of language disorder on children’s future-oriented narratives.
 *	Dong, Y., **Hsiao, Y.**, Dawson, N., Banerji, N. & Nation, K. (in review). The Emotional Content of Children’s Writing: A Data-Driven Approach
 *	**Hsiao, Y.**, Dawson, N., Banerji, N., & Nation, K. (2024). A corpus-based developmental investigation of linguistic complexity in children’s written stories. <i>Applied Corpus Linguistics</i>,  4(1), 100084. [[link]](https://www.sciencedirect.com/science/article/pii/S2666799124000017)
 *	Dawson, N., **Hsiao, Y.**, Tan, A.W.M., Banerji, N., & Nation, K. (2023) Effects of Target Age and Genre on Morphological Complexity in Children’s Reading Material, <i>Scientific Studies of Reading</i>, 27:6, 529-556. [[link]](https://www.tandfonline.com/doi/full/10.1080/10888438.2023.2206574)
